@@ -15,7 +15,7 @@ We use the _[Golang Bridge](https://github.com/gobridge/about-us/blob/master/REA
 
 **Sponsorships:**
 
-_Special thanks to_
+_Special thanks to_jitendra
 
 <div align="center">
 <table cellpadding="5">
